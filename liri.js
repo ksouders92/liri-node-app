@@ -70,6 +70,9 @@ console.log('================================================');
 
 var getMovies = function (movieName) {
 request('http://www.omdbapi.com/?apikey=62524640&t=' + movieName + '&y=&plot=short&r=json', function (error, response, body) {
+  if (movieName == "" || movieName == null) {
+    movieName = "Mr. Nobody"
+  }
   if(!error && response.statusCode == 200) {
     var jsonData = JSON.parse(body);
 
