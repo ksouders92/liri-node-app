@@ -6,7 +6,7 @@ Have liri take in the following commands:<br>
         This will show your last 20 tweets and when they were created at in your terminal/bash window.</li><br>
    <li> node liri.js spotify-this-song '<song name here>'<br>
         This will display artist, song name, album, and preview link <br>
-       Default to “Ace of Base” <br></li>
+      Default to “Ace of Base” </li><br>
     <li>node liri.js movie-this '<movie name here>' <br>
         a.	 Title of the movie. <br>
         b.	Year the movie came out. <br>
