@@ -1,3 +1,12 @@
+// Build a node app that will return songs from Spotify, movies from OMDB, and tweets from Twitter
+// Get the necessary API keys
+// Create a package.JSON using npm init
+// Then install all the packages needed – twitter, spotify, request & dotenv
+// Create a .gitignore
+// Create a keys.js file connected to a .env file that will be in the .gitignore to hide secret API keys & tokens
+// Include node_modules in the .gitignore as well (I included DS_Store in .gitignore for practice even though I have a windows computer)
+// Require in liri.js file
+
 // Loads .env into process.env 
 // However, I couldn't get .env to work so I put the API keys in my keys.js folder
 // Included my keys.js in the .gitignore
