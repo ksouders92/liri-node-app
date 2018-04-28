@@ -1,11 +1,12 @@
 # liri-node-app
 Week 10 Homework - UCF Coding Bootcamp<br>
 Have liri take in the following commands:<br>
-    1.	node liri.js my-tweets<br>
-        a.	This will show your last 20 tweets and when they were created at in your terminal/bash window.<br>
-    2.	node liri.js spotify-this-song '<song name here>'<br>
-        a.	This will display artist, song name, album, and preview link <br>
-        b.	Default to “Ace of Base” <br>
+   <ol>
+    <li>1.	node liri.js my-tweets<br>
+        This will show your last 20 tweets and when they were created at in your terminal/bash window.</li><br>
+   <li> 2.	node liri.js spotify-this-song '<song name here>'<br>
+        This will display artist, song name, album, and preview link <br>
+       Default to “Ace of Base” <br></li>
     3.	node liri.js movie-this '<movie name here>' <br>
         a.	 Title of the movie. <br>
         b.	Year the movie came out. <br>
@@ -19,6 +20,6 @@ Have liri take in the following commands:<br>
     4.	node liri.js do-what-it-says<br>
         a.	Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.<br>
         b.	It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt. <br>
-
+    </ol>
 ![LIRI gif](./gif/LIRI.gif)
 
