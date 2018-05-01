@@ -3,10 +3,10 @@ Week 10 Homework - UCF Coding Bootcamp<br>
 Have liri take in the following commands:<br>
    1. node liri.js my-tweets
         1. This will show your last 20 tweets and when they were created at in your terminal/bash window.
-   1. node liri.js spotify-this-song "<song name here>"
+   1. node liri.js spotify-this-song "song name here"
         1. This will display artist, song name, album, and preview link 
         1.Default to “Ace of Base” 
-   1. node liri.js movie-this "<movie name here>"
+   1. node liri.js movie-this "movie name here"
         1.	Title of the movie. 
         1.	Year the movie came out. 
         1.	IMDB Rating of the movie. 
