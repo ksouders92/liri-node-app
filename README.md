@@ -17,8 +17,8 @@ Have liri take in the following commands:<br>
         1.	Actors in the movie. 
         1.	If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody'. 
    1. node liri.js do-what-it-says
-        a.	Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
-        b.	It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt. 
+        1.	Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
+        1.	It should run spotify-this-song for "I Want it That Way," as follows the text in random.txt. 
     
       <br>
       
